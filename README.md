@@ -17,6 +17,7 @@ Este reto fue desarrollado por un equipo multidisciplinar de diferentes universi
 -	Juan Camilo Arteaga Ibarra (camilo.arteaga1@udea.edu.co): Estudiante de Ingeniería Electrónica de la Universidad de Antioquia ubicada en Medellín, Colombia.
 -	As Augusto Rios Muñoz (aarios@unal.edu.co): Ingeniero químico y actual estudiante de la Maestría en Analítica de la Facultad de Minas de la Universidad Nacional de Colombia ubicada en Medellín, Colombia.
 -	Wassilla Ajbar (wassila.ajbar@gmail.com): Licenciada en Ingeniería Quimica de la Facultad de Ciencias y Técnicas de Tánger de la Universidad Abdelmalek Esaadi uibicada en Marruecos. M.Sc y Ph.D en el Centro de Investigación en Ingeniería y Ciencias Aplicadas de la Universidad Autónoma del Estado de Morelos. México. Actualmente pasante posdoctoral de la Universidad Autonoma de México, Ciudad de México, México.
+- Jesús Mercado Ríos. (jmercador2023@cic.ipn.mx): Lic. Físico matemático y actualmente estudiando la maestría en Ciencias de la computación en el Centro de Investigación en Computación, Ciudad de México.
 
 # Metodología y descripción general
 
