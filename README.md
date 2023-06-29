@@ -33,6 +33,7 @@ Finalmente, se modificaron los siguientes parámetros:
 - Función de perdida Tversky
 - Aumentación de datos con rotaciones de 30, 90, 150, 180 y 270 grados
 - Metricas de perdida iou y dsc
+  
 Con estos resultados fue posible obtener un ajuste importante a los vehiculos en todas las imagenes con oportunidades de mejora claras, sin embargo fue posible establecer que para mejorar la precisión en la segmentación deben sintonizarse hiperparametros y funciones de activación mas que la aplicación de algoritmos de aumentación.
 
 # Material de apoyo.
