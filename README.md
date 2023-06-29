@@ -32,4 +32,4 @@ Finalmente, se modificaron los siguientes parámetros PONER PARAMETROS MODIFICAD
 
 # Material de apoyo.
 
-Como material de apoyo, adjuntamos un documento donde adjuntamos imágenes relevantes asociadas a cada proceso de entrenamiento y las diferentes variaciones que aplicamos en la arquitectura. 
+Como material de apoyo, adjuntamos un documento con las imágenes relevantes asociadas a cada proceso de entrenamiento y las diferentes variaciones que aplicamos en la arquitectura. 
