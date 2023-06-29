@@ -30,3 +30,6 @@ Por otro lado, se probaron funciones de perdida diferentes a la predeterminada (
 
 Finalmente, se modificaron los siguientes parámetros PONER PARAMETROS MODIFICADOS FINALMENTE.
 
+# Material de apoyo.
+
+Como material de apoyo, adjuntamos un documento donde adjuntamos imágenes relevantes asociadas a cada proceso de entrenamiento y las diferentes variaciones que aplicamos en la arquitectura. 
